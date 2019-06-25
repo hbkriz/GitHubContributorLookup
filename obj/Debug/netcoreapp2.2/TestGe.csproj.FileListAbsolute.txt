@@ -1,0 +1,11 @@
+C:\Users\Balakh\Desktop\TestGe\bin\Debug\netcoreapp2.2\TestGe.deps.json
+C:\Users\Balakh\Desktop\TestGe\bin\Debug\netcoreapp2.2\TestGe.runtimeconfig.json
+C:\Users\Balakh\Desktop\TestGe\bin\Debug\netcoreapp2.2\TestGe.runtimeconfig.dev.json
+C:\Users\Balakh\Desktop\TestGe\bin\Debug\netcoreapp2.2\TestGe.dll
+C:\Users\Balakh\Desktop\TestGe\bin\Debug\netcoreapp2.2\TestGe.pdb
+C:\Users\Balakh\Desktop\TestGe\obj\Debug\netcoreapp2.2\TestGe.csprojAssemblyReference.cache
+C:\Users\Balakh\Desktop\TestGe\obj\Debug\netcoreapp2.2\TestGe.csproj.CoreCompileInputs.cache
+C:\Users\Balakh\Desktop\TestGe\obj\Debug\netcoreapp2.2\TestGe.AssemblyInfoInputs.cache
+C:\Users\Balakh\Desktop\TestGe\obj\Debug\netcoreapp2.2\TestGe.AssemblyInfo.cs
+C:\Users\Balakh\Desktop\TestGe\obj\Debug\netcoreapp2.2\TestGe.dll
+C:\Users\Balakh\Desktop\TestGe\obj\Debug\netcoreapp2.2\TestGe.pdb
