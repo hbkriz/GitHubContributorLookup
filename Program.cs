@@ -19,6 +19,7 @@ namespace TestGe
                 PrintTopTenContributors(client);
                 var gitHubMostCommitWeekResult = PrintTheMostCommitsWeekStats(client);
                 PrintDayCommitsStats(gitHubMostCommitWeekResult.Days);
+                Console.ReadLine();
             }
         }
 
